@@ -1,2 +1,3 @@
-# DE4Opti_Example
-Example Submission for DE4 Optimisation Coursework 2018/19
+Example Code Submission for DE4 Optimisation Coursework 2018/19
+============
+
