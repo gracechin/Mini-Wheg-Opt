@@ -14,12 +14,13 @@ Directory Structure
 2. Subsystem_1
 3. Subsystem_2
 
-The first folder should contain all necessary code and files to reproduce the
-results presented for the system level optimisation. 
+The System directory should contain all necessary code and files to reproduce
+the results presented for the system level optimisation. 
 
-The Subsystem folders should contain all necessary code and files such that the
-results for the stand-alone subsystem optimisations that you have worked on
-individually can be reproduced. This is important, as it is weighted 
+The Subsystem_x folders should contain all necessary code and files such that
+the results for the stand-alone subsystem optimisations that you have worked on
+individually can be reproduced. *Note* that these are significantly more
+important than the System implementation. 
 
 Executing the Code
 ----------
