@@ -46,7 +46,7 @@ any high quality images or simulations that might not be suitable for inclusion
 in your reports.  
 
 If you choose to do this, we also recommend that you upload a copy of your final
-report to put.  
+report.  
 
 If you would prefer your project to be private, please create private GitHub
 repository and provide access to [David](<mailto:david.boyle@imperial.ac.uk>)
