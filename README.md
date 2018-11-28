@@ -38,8 +38,7 @@ indication of processor and operating system)
 Open Source versus Private 
 ----------
 You have an opportunity to create a web page in support of your project.  Follow
-the instructions [here](https://pages.github.com) to add a [GitHub
-Page](https://pages.github.com). 
+the instructions to add a [GitHub Page](https://pages.github.com). 
 
 This has the added advantage of allowing you to showcase your work to the world
 and complement your digital portfolios. You may use this opportunity to include
