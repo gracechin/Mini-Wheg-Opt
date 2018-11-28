@@ -30,11 +30,15 @@ information:
 2. Specify the main script 
 3. Provide an indication of the typical performance (e.g. execution time  
 
- 
+Open Source versus Private 
 ----------
 
 You have an opportunity to create a web page in support of your project.
-Follow the instructions here to add a GitHub Page. 
+Follow the instructions here to add a GitHub Page: https://pages.github.com 
 
-If you would prefer your project to be private, please 
+This has the advantage of allowing you to showcase your work. If you choose to
+do this, we recommend also uploaded a copy of your final report in the main
+	directory.  
 
+If you would prefer your project to be private, please create private GitHub
+repository and invite David and Nan as collaborators.
