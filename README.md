@@ -19,8 +19,8 @@ the results presented for the system level optimisation.
 
 The Subsystem_x folders should contain all necessary code and files such that
 the results for the stand-alone subsystem optimisations that you have worked on
-individually can be reproduced. *Note* that these are significantly more
-important than the System implementation. 
+individually can be reproduced. **Note**: these are significantly more
+important than the System implementation.
 
 Executing the Code
 ----------
@@ -35,7 +35,7 @@ Open Source versus Private
 ----------
 
 You have an opportunity to create a web page in support of your project.
-Follow the instructions here to add a GitHub Page: https://pages.github.com 
+Follow the instructions here to add a GitHub Page: (https://pages.github.com) 
 
 This has the advantage of allowing you to showcase your work. If you choose to
 do this, we recommend also uploaded a copy of your final report in the main
