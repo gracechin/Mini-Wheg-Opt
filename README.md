@@ -41,10 +41,17 @@ You have an opportunity to create a web page in support of your project.  Follow
 the instructions [here](https://pages.github.com) to add a [GitHub
 Page](https://pages.github.com). 
 
-This has the advantage of allowing you to showcase your work. If you choose to
-do this, we recommend also uploaded a copy of your final report in the main
-	directory.  
+This has the added advantage of allowing you to showcase your work to the world
+and complement your digital portfolios. You may use this opportunity to include
+any high quality images or simulations that might not be suitable for inclusion
+in your reports.  
+
+If you choose to do this, we also recommend that you upload a copy of your final
+report to put.  
 
 If you would prefer your project to be private, please create private GitHub
 repository and provide access to [David](<mailto:david.boyle@imperial.ac.uk>)
 and [Nan](<mailto:n.li09@imperial.ac.uk>).
+
+In the case of a private repository, you may still include additional material
+in support of your project.
