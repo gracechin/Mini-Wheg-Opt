@@ -19,8 +19,11 @@ the results presented for the system level optimisation.
 
 The Subsystem_x folders should contain all necessary code and files such that
 the results for the stand-alone subsystem optimisations that you have worked on
-individually can be reproduced. **Note**: these are significantly more
-important than the System implementation.
+individually can be reproduced. 
+
+**NOTE:** The Subsystem_x directories are significantly more important than 
+System on an individual basis. Students take sole responsibility for ensuring
+that the quality and accuracy of their Subsystem directories.
 
 Executing the Code
 ----------
@@ -29,7 +32,8 @@ information:
 
 1. List any software/library prerequisites/dependencies needed to run the code
 2. Specify the main script 
-3. Provide an indication of the typical performance (e.g. execution time  
+3. Provide an indication of the typical performance (e.g. execution time, with
+indication of processor and operating system)
 
 Open Source versus Private 
 ----------
