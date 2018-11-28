@@ -10,7 +10,7 @@ structure:
 
 Directory Structure
 -----------
-1. System level optimisation
+1. System
 2. Subsystem_1
 3. Subsystem_2
 
