@@ -33,13 +33,13 @@ information:
 
 Open Source versus Private 
 ----------
-
-You have an opportunity to create a web page in support of your project.
-Follow the instructions here to add a GitHub Page: (https://pages.github.com) 
+You have an opportunity to create a web page in support of your project.  Follow
+the instructions [here](https://pages.github.com) to add a [GitHub
+Page](https://pages.github.com). 
 
 This has the advantage of allowing you to showcase your work. If you choose to
 do this, we recommend also uploaded a copy of your final report in the main
 	directory.  
 
 If you would prefer your project to be private, please create private GitHub
-repository and invite David and Nan as collaborators.
+repository and invite [David](<mailto:david.boyle@imperial.ac.uk>) and Nan as collaborators.
