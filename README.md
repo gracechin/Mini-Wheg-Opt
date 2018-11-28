@@ -42,4 +42,5 @@ do this, we recommend also uploaded a copy of your final report in the main
 	directory.  
 
 If you would prefer your project to be private, please create private GitHub
-repository and invite [David](<mailto:david.boyle@imperial.ac.uk>) and Nan as collaborators.
+repository and provide access to [David](<mailto:david.boyle@imperial.ac.uk>)
+and [Nan](<mailto:n.li09@imperial.ac.uk>).
