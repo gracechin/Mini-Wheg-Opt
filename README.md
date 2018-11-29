@@ -8,7 +8,7 @@ Instructions
 
 **All submissions should be via e-mail with link to a git repository that can be cloned.**
 
-**The deadline for source code submission is 4pm on Friday 14th December**
+<align="center">**The deadline for source code submission is 4pm on Friday 14th December**
 
 Ensure that your code can be executed to reproduce the numerical (where
 deterministic, otherwise explained) and graphical results provided in your
@@ -22,7 +22,7 @@ Directory Structure
 3. Subsystem_2
 
 The System directory should contain all necessary code and files to reproduce
-the results presented for the system level optimisation. 
+the results presented for the System optimisation (i.e. Group). 
 
 The Subsystem_x folders should contain all necessary code and files such that
 the results for the stand-alone subsystem optimisations that you have worked on
