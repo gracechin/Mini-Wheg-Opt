@@ -8,7 +8,7 @@ Instructions
 
 **All submissions should be via e-mail with link to a git repository that can be cloned.**
 
-**The deadline for source code submission is TBC**
+**The deadline for source code submission is 4pm on Friday 14th December**
 
 Ensure that your code can be executed to reproduce the numerical (where
 deterministic, otherwise explained) and graphical results provided in your
