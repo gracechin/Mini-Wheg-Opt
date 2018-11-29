@@ -22,8 +22,7 @@ the results for the stand-alone subsystem optimisations that you have worked on
 individually can be reproduced. 
 
 **NOTE:** The Subsystem_x directories are significantly more important than 
-System on an individual basis. Students take sole responsibility for ensuring
-that the quality and accuracy of their Subsystem directories.
+System on an individual basis. Students take sole responsibility for ensuring quality and accuracy of their Subsystem directories.
 
 Executing the Code
 ----------
