@@ -3,6 +3,9 @@ DE4 Opti Coursework 2018/19: Code Submission
 This repository is a simple example/shell of how we expect the source code for
 your coursework to be submitted. 
 
+Instructions
+----------
+
 **All submissions should be via e-mail with link to a git repository that can be cloned.**
 
 **The deadline for source code submission is 4pm on Monday December 17th 2018**
