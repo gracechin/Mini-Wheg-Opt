@@ -41,22 +41,23 @@ information:
 3. Provide an indication of the typical performance (e.g. execution time, with
 indication of processor and operating system)
 
-Open Source versus Private 
+Open Source or Private 
 ----------
-You have an opportunity to create a web page in support of your project.  Follow
-the instructions to add a [GitHub Page](https://pages.github.com). 
+You have an opportunity to create a web page in support of your project. You may already have a digital portfolio, which you are free to use, or you can simply follow
+the instructions to add a [GitHub Page](https://pages.github.com) if this would be more convenient. 
 
 This has the added advantage of allowing you to showcase your work to the world
-and complement your digital portfolios. You may use this opportunity to include
-any high quality images or simulations that might not be suitable for inclusion
-in your reports.  
+and complement your digital portfolio(s). You may use this opportunity to include
+any high quality images/CAD drawings or simulations/videos that might not be suitable for inclusion
+in your reports.
 
 If you choose to do this, we also recommend that you upload a copy of your final
-report.  
+report to your public repository to place everything in context.
 
-If you would prefer your project to be private, please create private GitHub
-repository and provide access to [David](<mailto:david.boyle@imperial.ac.uk>)
+If you would prefer your project to be private, please create private git repository and provide access to [David](<mailto:david.boyle@imperial.ac.uk>)
 and [Nan](<mailto:n.li09@imperial.ac.uk>).
 
 In the case of a private repository, you may still include additional material
 in support of your project.
+
+**NOTE:** You may use *any* git service of your choosing! 
