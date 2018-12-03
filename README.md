@@ -54,7 +54,7 @@ in your reports.
 If you choose to do this, we also recommend that you upload a copy of your final
 report to your public repository to place everything in context.
 
-If you would prefer your project to be private, please create private git repository and provide access to [David](<mailto:david.boyle@imperial.ac.uk>)
+If you would prefer your project to be private, please create a private git repository and provide access to [David](<mailto:david.boyle@imperial.ac.uk>)
 and [Nan](<mailto:n.li09@imperial.ac.uk>).
 
 In the case of a private repository, you may still include additional material
