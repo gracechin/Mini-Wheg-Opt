@@ -1,11 +1,13 @@
 README for the Subsystem_2
 =======
 
-Main script 
+Scripts
 -------
-2. Specify the main script 
-3. Provide an indication of the typical performance (e.g. execution time, with
-indication of processor and operating system)
+* latin_hyper_cube.m - used for sampling
+* area_script.m - used to check the Rsq normalised model for area
+* mass_script.m - used to check the Rsq model for mass
+
+
 
 Execution time
 -------
@@ -13,4 +15,4 @@ The execution time is approximately XX seconds
 
 Dependencies
 -------
-List any software/library prerequisites/dependencies needed to run the code
+Used in MATLAB R2016b
