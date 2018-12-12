@@ -1,12 +1,11 @@
-This is the README for the Subsystem_2
+README for the Subsystem_2
 =======
-
-*Example ... Please chage to suit your own system*
-
 
 Main script 
 -------
-The subsystem_2.m MATLAB script should be run
+2. Specify the main script 
+3. Provide an indication of the typical performance (e.g. execution time, with
+indication of processor and operating system)
 
 Execution time
 -------
@@ -14,4 +13,4 @@ The execution time is approximately XX seconds
 
 Dependencies
 -------
-The script requires only MATLAB_R2018A
+List any software/library prerequisites/dependencies needed to run the code
