@@ -16,3 +16,4 @@ The execution time is approximately XX seconds
 Dependencies
 -------
 Used in MATLAB R2016b
+Deep Learning Toolbox to use the 'mapstd' function
