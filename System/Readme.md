@@ -1,18 +1,17 @@
 This is the README for the System
 =======
 
-*Example ... Please chage to suit your own system*  
-
-
-Main script 
+Main scripts
 -------
-The system.m MATLAB script should be run
+* *auto_opt.m* - attempt to optimise system-level problem using Matlab
+* *manual_opt.m* - manually solving for torque density
 
 Execution time
 -------
-The execution time is approximately XX seconds
+The execution time is approximately 10 seconds.  
+Time taken is longer for *auto_opt.m* compared to *manual_opt.m*
 
 Dependencies
 -------
-The script requires only MATLAB_R2018A 
+The script can run using MATLAB_R2016B
 
