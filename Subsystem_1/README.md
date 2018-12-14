@@ -1,8 +1,6 @@
 This is the README for the Subsystem_1
 =======
-
 Optimisation of the transmission subsystem for minimisation of mass and maximisation of efficiency
-
 
 Main script 
 -------
